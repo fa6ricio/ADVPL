@@ -27,3 +27,10 @@ Execauto básico de importação de contas a receber
 
 MEST003
 Execauto de movimentação multiplas de estoque (mata261) desenvolvido em MVC com tabelas customizadas para pode ser usar leitores de código de barras para localizar os produtos
+
+
+--------------------
+--------Fluig-------
+--------------------
+MT120FIM
+Ponto de entrada MT120FIM com consumo de webservice wsdl do Fluig para ingração de processo de liberação de pedido de compras via FLuig. Rotina feita usando método TWsdlManager
