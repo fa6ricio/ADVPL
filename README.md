@@ -1,7 +1,9 @@
-# ADVPL
+# ADVPL #PROTHEUS #TL++ #WebServiced #JSon #RestFull
 Fontes de Exemplo de ADVPL
 
+-------------------------------------
 -----Miscelanea (Fontes Gerais)------
+-------------------------------------
 
 MCCOM004
 Formulario MVC feito com tabelas temporarias no banco para aprovação em conjunto de solicitações de compras Protheus
@@ -13,7 +15,13 @@ Rotina MVC com um filds e dois grids toda baseada em tabela temporária no banco
 MFAT001
 Markbrowser MVC de tabela temporária com filtros e ordenações e opção de alterar o conteúdo dos campos. usado para preficação na tabela de preços e impressão de etiquetas zebra
 
+MLOJA006
+Função para ser chamada em consulta padrão para montagem de tela customizada para localização de produto, com opção de digitação de qualquer parte da descrição do produto, fazendo filtros
+
+
+--------------------
 -----ExecAutos------
+--------------------
 MFIN001
 Execauto básico de importação de contas a receber
 
