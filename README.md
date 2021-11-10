@@ -1,6 +1,9 @@
 # ADVPL #PROTHEUS #TL++ #WebServiced #JSon #RestFull
 Fontes de Exemplo de ADVPL
 
+Fabrício Antunes Fonseca
+Analista protheus com mais de 14 anos de experiência em desenolvimento, implantação e suporte Protheus, ADVPL
+
 -------------------------------------
 -----Miscelanea (Fontes Gerais)------
 -------------------------------------
@@ -34,3 +37,10 @@ Execauto de movimentação multiplas de estoque (mata261) desenvolvido em MVC co
 --------------------
 MT120FIM
 Ponto de entrada MT120FIM com consumo de webservice wsdl do Fluig para ingração de processo de liberação de pedido de compras via FLuig. Rotina feita usando método TWsdlManager
+
+
+----------------------
+--------WS Wsdl-------
+----------------------
+WSFLGSRV
+WebService WSDL para aprovação de solicitacao de compras com tratativas por nível de aprovação e integração com fluig usando classe TWsdlManager
