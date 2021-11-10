@@ -44,3 +44,6 @@ Ponto de entrada MT120FIM com consumo de webservice wsdl do Fluig para ingraçã
 ----------------------
 WSFLGSRV
 WebService WSDL para aprovação de solicitacao de compras com tratativas por nível de aprovação e integração com fluig usando classe TWsdlManager
+
+FATWS001
+WebService WSDL para inclusao de pedido de vendas, com funcao recursiva para montagem do XML recebido,

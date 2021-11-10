@@ -981,7 +981,7 @@ ______________________________________________________________________________
 |Descricao|Função responsável pela carga dos submodelos do MVC.               | 
 |         |@param	oSub, objeto, instância da classe FWFormFieldsModel ou da |
 |         |classe FWFormGridModel                                             |
-		  |	cIdSub, caractere, id do submodelo que será carregado             |
+|         |cIdSub, caractere, id do submodelo que será carregado             |
 |         |                                                                   |
 |_________|___________________________________________________________________|
 |Uso      |                                                                  | 
